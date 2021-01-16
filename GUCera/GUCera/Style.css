@@ -1,0 +1,66 @@
+﻿*{
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: lightcyan;
+    text-align: -webkit-center;
+    margin: 5px;
+}
+h1{ 
+    color: crimson; 
+    font-size: 40px;
+}
+
+.labels{
+    font-size: 20px;
+}
+
+p.labels {
+    font-size: 24px;
+    margin-top: 0px;
+}
+
+#form1{
+    border: 1.5px solid crimson;
+    max-inline-size: fit-content;
+    margin: 4px;
+    padding: 27px;
+}
+
+#Reg{
+    font-size: 12px;
+    color:rgb(43, 97, 212);
+    background:none;
+    border:none;
+}
+#Reg:hover{
+    color: crimson;
+    cursor: pointer;
+}
+
+.Button{
+    margin-top: 10px;
+    background-size: contain;
+    max-inline-size: 4em;
+    max-height: 2em;
+    width: 40px;
+}
+
+.CheckBox {
+    margin-top: 10px;
+}
+
+.dropDown{
+    margin: 10px;
+}
+
+.GridView{
+    border: 1.5px solid crimson;
+    max-inline-size: fit-content;
+    margin: 4px;
+    padding: 27px;
+}
+
+.titles {
+    color: red;
+    font-weight: bold;
+    font-size: 30px;
+}
